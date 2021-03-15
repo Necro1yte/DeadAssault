@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: 2034de0de437b65409197fe08bdc9c62
+timeCreated: 1496410257
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LittleFly_0
+    21300002: LittleFly_1
+    21300004: LittleFly_2
+    21300006: LittleFly_3
+    21300008: LittleFly_4
+    21300010: LittleFly_5
+    21300012: LittleFly_6
+    21300014: LittleFly_7
+    21300016: LittleFly_8
+    21300018: LittleFly_9
+    21300020: LittleFly_10
+    21300022: LittleFly_11
+    21300024: LittleFly_12
+    21300026: LittleFly_13
+    21300028: LittleFly_14
+    21300030: LittleFly_15
+    21300032: LittleFly_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LittleFly_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LittleFly_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 226
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LittleFly_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LittleFly_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 196
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LittleFly_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 196
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LittleFly_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 196
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LittleFly_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -1}
+        - {x: -2, y: -8}
+        - {x: 6, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 4}
+        - {x: 7, y: 10}
+    - name: LittleFly_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 131
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -18, y: 5}
+        - {x: -18, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 12}
+        - {x: 9, y: 15}
+    - name: LittleFly_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 131
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -11, y: 17}
+        - {x: -18, y: -11}
+        - {x: -18, y: -18}
+        - {x: -15, y: -19}
+        - {x: 30, y: -19}
+        - {x: 30, y: 12}
+        - {x: 15, y: 18}
+    - name: LittleFly_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 131
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -12}
+        - {x: 14, y: -26}
+        - {x: 18, y: -27}
+        - {x: 22, y: -27}
+        - {x: 27, y: -23}
+        - {x: 27, y: -15}
+        - {x: 22, y: -12}
+      - - {x: -16, y: -8}
+        - {x: -26, y: -16}
+        - {x: -26, y: -20}
+        - {x: -25, y: -22}
+        - {x: -18, y: -22}
+        - {x: -5, y: -16}
+        - {x: -5, y: -11}
+        - {x: -7, y: -8}
+      - - {x: 2, y: 18}
+        - {x: -12, y: 13}
+        - {x: -12, y: -15}
+        - {x: 26, y: -15}
+        - {x: 30, y: -7}
+        - {x: 30, y: 12}
+        - {x: 14, y: 18}
+      - - {x: -19, y: 21}
+        - {x: -21, y: 18}
+        - {x: -21, y: 14}
+        - {x: -17, y: 12}
+        - {x: -13, y: 12}
+        - {x: -11, y: 13}
+        - {x: -11, y: 15}
+        - {x: -16, y: 21}
+    - name: LittleFly_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -13}
+        - {x: 12, y: -16}
+        - {x: 12, y: -19}
+        - {x: 17, y: -22}
+        - {x: 21, y: -22}
+        - {x: 22, y: -19}
+        - {x: 22, y: -16}
+        - {x: 17, y: -13}
+      - - {x: -26, y: -9}
+        - {x: -30, y: -12}
+        - {x: -30, y: -19}
+        - {x: -27, y: -19}
+        - {x: -24, y: -18}
+        - {x: -18, y: -9}
+        - {x: -18, y: -7}
+        - {x: -21, y: -6}
+      - - {x: -3, y: 10}
+        - {x: -6, y: 5}
+        - {x: -6, y: 1}
+        - {x: -8, y: 4}
+        - {x: -11, y: 3}
+        - {x: -11, y: -2}
+        - {x: -10, y: -8}
+        - {x: -6, y: -12}
+        - {x: 2, y: -12}
+        - {x: 9, y: -10}
+        - {x: 9, y: -4}
+        - {x: 6, y: 7}
+        - {x: 0, y: 10}
+      - - {x: 22, y: 10}
+        - {x: 21, y: 9}
+        - {x: 21, y: 7}
+        - {x: 25, y: 0}
+        - {x: 30, y: 0}
+        - {x: 30, y: 8}
+        - {x: 25, y: 10}
+      - - {x: -13, y: 24}
+        - {x: -17, y: 18}
+        - {x: -17, y: 3}
+        - {x: 14, y: 3}
+        - {x: 14, y: 24}
+      - - {x: -25, y: 21}
+        - {x: -22, y: 21}
+        - {x: -20, y: 22}
+        - {x: -20, y: 27}
+        - {x: -25, y: 27}
+        - {x: -26, y: 26}
+        - {x: -26, y: 23}
+    - name: LittleFly_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -16}
+        - {x: 16, y: -18}
+        - {x: 16, y: -21}
+        - {x: 20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 25, y: -21}
+        - {x: 24, y: -18}
+        - {x: 20, y: -16}
+      - - {x: -29, y: -11}
+        - {x: -30, y: -15}
+        - {x: -30, y: -21}
+        - {x: -26, y: -21}
+        - {x: -24, y: -18}
+        - {x: -23, y: -12}
+        - {x: -25, y: -10}
+      - - {x: 7, y: -2}
+        - {x: 3, y: -4}
+        - {x: 3, y: -2}
+        - {x: 0, y: 0}
+        - {x: 4, y: -2}
+        - {x: 7, y: -1}
+        - {x: 7, y: 5}
+        - {x: 3, y: 10}
+        - {x: -6, y: 10}
+        - {x: -10, y: 4}
+        - {x: -10, y: -11}
+        - {x: -5, y: -13}
+        - {x: 7, y: -13}
+        - {x: 9, y: -10}
+        - {x: 10, y: -7}
+        - {x: 10, y: -3}
+      - - {x: 27, y: 6}
+        - {x: 26, y: 3}
+        - {x: 26, y: -3}
+        - {x: 28, y: -4}
+        - {x: 30, y: -4}
+        - {x: 30, y: 5}
+        - {x: 29, y: 6}
+      - - {x: 0, y: 24}
+        - {x: -7, y: 24}
+        - {x: -17, y: 12}
+        - {x: -17, y: 8}
+        - {x: -13, y: 4}
+        - {x: -9, y: 4}
+        - {x: -2, y: 10}
+        - {x: 0, y: 13}
+      - - {x: 0, y: 20}
+        - {x: -1, y: 19}
+        - {x: -1, y: 12}
+        - {x: 4, y: 4}
+        - {x: 16, y: 4}
+        - {x: 16, y: 18}
+        - {x: 10, y: 20}
+      - - {x: -24, y: 21}
+        - {x: -21, y: 22}
+        - {x: -21, y: 25}
+        - {x: -24, y: 26}
+        - {x: -26, y: 24}
+    - name: LittleFly_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -23}
+        - {x: -28, y: -25}
+        - {x: -25, y: -24}
+        - {x: -25, y: -21}
+        - {x: -27, y: -19}
+        - {x: -30, y: -20}
+      - - {x: 18, y: -21}
+        - {x: 19, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -22}
+        - {x: 23, y: -19}
+        - {x: 20, y: -19}
+      - - {x: -10, y: -1}
+        - {x: -10, y: -5}
+        - {x: -9, y: -8}
+        - {x: -4, y: -13}
+        - {x: -1, y: -14}
+        - {x: 4, y: -14}
+        - {x: 10, y: -10}
+        - {x: 9, y: -7}
+        - {x: -8, y: 1}
+      - - {x: -1, y: 11}
+        - {x: -5, y: 9}
+        - {x: -5, y: 0}
+        - {x: 4, y: 0}
+        - {x: 7, y: 1}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+        - {x: 6, y: 11}
+      - - {x: -8, y: 15}
+        - {x: -15, y: 12}
+        - {x: -17, y: 9}
+        - {x: -17, y: 3}
+        - {x: -15, y: 1}
+        - {x: -11, y: 1}
+        - {x: -6, y: 2}
+        - {x: -3, y: 9}
+        - {x: -3, y: 15}
+      - - {x: 4, y: 21}
+        - {x: 0, y: 20}
+        - {x: 0, y: 14}
+        - {x: 10, y: 5}
+        - {x: 17, y: 5}
+        - {x: 18, y: 6}
+        - {x: 18, y: 13}
+        - {x: 17, y: 16}
+        - {x: 12, y: 21}
+      - - {x: -7, y: 21}
+        - {x: -7, y: 18}
+        - {x: -3, y: 14}
+        - {x: 0, y: 15}
+        - {x: 1, y: 22}
+        - {x: -1, y: 24}
+        - {x: -4, y: 24}
+    - name: LittleFly_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -27}
+        - {x: -25, y: -26}
+        - {x: -25, y: -23}
+        - {x: -28, y: -22}
+        - {x: -30, y: -24}
+      - - {x: 23, y: -25}
+        - {x: 26, y: -24}
+        - {x: 26, y: -21}
+        - {x: 23, y: -20}
+        - {x: 21, y: -22}
+      - - {x: -10, y: 0}
+        - {x: -10, y: -6}
+        - {x: -9, y: -9}
+        - {x: -3, y: -14}
+        - {x: 5, y: -14}
+        - {x: 7, y: -12}
+        - {x: 6, y: -9}
+        - {x: -7, y: 1}
+      - - {x: -10, y: 15}
+        - {x: -16, y: 8}
+        - {x: -16, y: 3}
+        - {x: -14, y: 0}
+        - {x: -10, y: 0}
+        - {x: -5, y: 6}
+        - {x: -5, y: 13}
+        - {x: -7, y: 15}
+      - - {x: -2, y: 12}
+        - {x: -5, y: 7}
+        - {x: -5, y: 3}
+        - {x: 8, y: 3}
+        - {x: 9, y: 7}
+        - {x: 7, y: 11}
+        - {x: 5, y: 12}
+      - - {x: 2, y: 16}
+        - {x: 5, y: 15}
+        - {x: 17, y: 6}
+        - {x: 20, y: 6}
+        - {x: 20, y: 14}
+        - {x: 18, y: 22}
+        - {x: 6, y: 22}
+        - {x: 2, y: 18}
+      - - {x: -8, y: 21}
+        - {x: -8, y: 19}
+        - {x: -5, y: 15}
+        - {x: -2, y: 16}
+        - {x: -1, y: 21}
+        - {x: -4, y: 24}
+        - {x: -5, y: 24}
+    - name: LittleFly_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 2}
+        - {x: -19, y: 2}
+        - {x: -19, y: -9}
+        - {x: -16, y: -17}
+        - {x: -4, y: -17}
+        - {x: -2, y: -15}
+        - {x: -2, y: -9}
+      - - {x: -3, y: 10}
+        - {x: -6, y: 7}
+        - {x: -6, y: 6}
+        - {x: -4, y: 4}
+        - {x: 2, y: 4}
+        - {x: 4, y: 6}
+        - {x: 4, y: 7}
+        - {x: 1, y: 10}
+      - - {x: -15, y: 12}
+        - {x: -16, y: 10}
+        - {x: -16, y: 5}
+        - {x: -12, y: 5}
+        - {x: -10, y: 6}
+        - {x: -10, y: 11}
+        - {x: -12, y: 12}
+      - - {x: 2, y: 15}
+        - {x: 11, y: 6}
+        - {x: 18, y: 6}
+        - {x: 18, y: 12}
+        - {x: 15, y: 20}
+        - {x: 4, y: 20}
+        - {x: 2, y: 19}
+      - - {x: -8, y: 21}
+        - {x: -10, y: 21}
+        - {x: -12, y: 18}
+        - {x: -12, y: 15}
+        - {x: -10, y: 14}
+        - {x: -8, y: 14}
+        - {x: -6, y: 17}
+        - {x: -6, y: 20}
+    - name: LittleFly_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -1}
+        - {x: -18, y: -10}
+        - {x: -12, y: -16}
+        - {x: -7, y: -16}
+        - {x: -6, y: -15}
+        - {x: -6, y: -12}
+        - {x: -10, y: -1}
+      - - {x: -15, y: 7}
+        - {x: -12, y: 8}
+        - {x: -12, y: 11}
+        - {x: -15, y: 12}
+        - {x: -17, y: 10}
+      - - {x: -4, y: 10}
+        - {x: -3, y: 7}
+        - {x: 0, y: 7}
+        - {x: 2, y: 9}
+        - {x: 1, y: 12}
+        - {x: -2, y: 12}
+      - - {x: 9, y: 21}
+        - {x: 7, y: 20}
+        - {x: 7, y: 18}
+        - {x: 14, y: 10}
+        - {x: 17, y: 10}
+        - {x: 19, y: 11}
+        - {x: 19, y: 16}
+        - {x: 15, y: 21}
+      - - {x: -12, y: 17}
+        - {x: -10, y: 15}
+        - {x: -7, y: 16}
+        - {x: -7, y: 19}
+        - {x: -9, y: 21}
+        - {x: -12, y: 20}
+    - name: LittleFly_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -16}
+        - {x: -7, y: -14}
+        - {x: -11, y: -7}
+        - {x: -14, y: -8}
+        - {x: -14, y: -11}
+      - - {x: 13, y: 22}
+        - {x: 11, y: 19}
+        - {x: 16, y: 14}
+        - {x: 18, y: 14}
+        - {x: 20, y: 15}
+        - {x: 20, y: 18}
+        - {x: 18, y: 22}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

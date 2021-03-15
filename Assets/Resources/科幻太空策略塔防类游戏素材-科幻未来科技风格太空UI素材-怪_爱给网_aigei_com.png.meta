@@ -1,0 +1,1931 @@
+fileFormatVersion: 2
+guid: ead71d5af0f6e604d98f2ffe96e1f321
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_0"
+    21300002: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_1"
+    21300004: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_2"
+    21300006: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_3"
+    21300008: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_4"
+    21300010: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_5"
+    21300012: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_6"
+    21300014: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_7"
+    21300016: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_8"
+    21300018: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_9"
+    21300020: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_10"
+    21300022: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_11"
+    21300024: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_12"
+    21300026: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_13"
+    21300028: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_14"
+    21300030: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_15"
+    21300032: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_16"
+    21300034: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_17"
+    21300036: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_18"
+    21300038: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_19"
+    21300040: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_20"
+    21300042: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_21"
+    21300044: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_22"
+    21300046: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_23"
+    21300048: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_24"
+    21300050: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_25"
+    21300052: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_26"
+    21300054: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_27"
+    21300056: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_28"
+    21300058: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_29"
+    21300060: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_30"
+    21300062: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_31"
+    21300064: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_32"
+    21300066: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_33"
+    21300068: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_34"
+    21300070: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_35"
+    21300072: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_36"
+    21300074: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_37"
+    21300076: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_38"
+    21300078: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_39"
+    21300080: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_40"
+    21300082: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_41"
+    21300084: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_42"
+    21300086: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_43"
+    21300088: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_44"
+    21300090: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_45"
+    21300092: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_46"
+    21300094: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_47"
+    21300096: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_48"
+    21300098: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_49"
+    21300100: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_50"
+    21300102: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_51"
+    21300104: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_52"
+    21300106: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_53"
+    21300108: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_54"
+    21300110: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_55"
+    21300112: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_56"
+    21300114: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_57"
+    21300116: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_58"
+    21300118: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_59"
+    21300120: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_60"
+    21300122: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_61"
+    21300124: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_62"
+    21300126: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_63"
+    21300128: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_64"
+    21300130: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_65"
+    21300132: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_66"
+    21300134: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_67"
+    21300136: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_68"
+    21300138: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_69"
+    21300140: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_70"
+    21300142: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_71"
+    21300144: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_72"
+    21300146: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_73"
+    21300148: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_74"
+    21300150: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_75"
+    21300152: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_76"
+    21300154: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_77"
+    21300156: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_78"
+    21300158: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_79"
+    21300160: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_80"
+    21300162: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_81"
+    21300164: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_82"
+    21300166: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_83"
+    21300168: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_84"
+    21300170: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_85"
+    21300172: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_86"
+    21300174: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_87"
+    21300176: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_88"
+    21300178: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_89"
+    21300180: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_90"
+    21300182: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_91"
+    21300184: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_92"
+    21300186: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_93"
+    21300188: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_94"
+    21300190: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_95"
+    21300192: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_96"
+    21300194: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_97"
+    21300196: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_98"
+    21300198: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_99"
+    21300200: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_100"
+    21300202: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_101"
+    21300204: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_102"
+    21300206: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_103"
+    21300208: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_104"
+    21300210: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_105"
+    21300212: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_106"
+    21300214: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_107"
+    21300216: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_108"
+    21300218: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_109"
+    21300220: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_110"
+    21300222: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_111"
+    21300224: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_112"
+    21300226: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_113"
+    21300228: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_114"
+    21300230: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_115"
+    21300232: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_116"
+    21300234: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_117"
+    21300236: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_118"
+    21300238: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_119"
+    21300240: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_120"
+    21300242: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_121"
+    21300244: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_122"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1005
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1011
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 854
+        width: 161
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 873
+        width: 142
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 969
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 843
+        width: 151
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 907
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 838
+        width: 163
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 899
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 885
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 871
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 869
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 849
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 852
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 852
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 847
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 721
+        width: 138
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 840
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 843
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 841
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 821
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 842
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 825
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 816
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 834
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 832
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 835
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 831
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 826
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 831
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 830
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 817
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 819
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 822
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 822
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 814
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_36"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 817
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_37"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 813
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_38"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 783
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_39"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 804
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_40"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 806
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_41"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 805
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_42"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 807
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_43"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 798
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_44"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 781
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_45"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 794
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_46"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_47"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 789
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_48"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 792
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_49"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 784
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_50"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 782
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_51"
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 778
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_52"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 777
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_53"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 777
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_54"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 586
+        width: 160
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_55"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 779
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_56"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 595
+        width: 159
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_57"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 758
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_58"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 758
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_59"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 595
+        width: 157
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_60"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 765
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_61"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 683
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_62"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 577
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_63"
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 607
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_64"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_65"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 667
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_66"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 651
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_67"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 601
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_68"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 590
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_69"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 589
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_70"
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 594
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_71"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 588
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_72"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 586
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_73"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 585
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_74"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 586
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_75"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 587
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_76"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 589
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_77"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 584
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_78"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 577
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_79"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_80"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 579
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_81"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 568
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_82"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 571
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_83"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 564
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_84"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 566
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_85"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 570
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_86"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 567
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_87"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 566
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_88"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_89"
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 563
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_90"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 560
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_91"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 564
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_92"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 553
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_93"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 556
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_94"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 552
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_95"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 395
+        width: 152
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_96"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 403
+        width: 144
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_97"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 547
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_98"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 546
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_99"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 546
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_100"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 539
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_101"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 540
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_102"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 151
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_103"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 376
+        width: 148
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_104"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 446
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_105"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 472
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_106"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 396
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_107"
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 390
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_108"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 394
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_109"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 386
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_110"
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 250
+        width: 121
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_111"
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 275
+        width: 109
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_112"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 367
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_113"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 360
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_114"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 225
+        width: 132
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_115"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 268
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_116"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 353
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_117"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 125
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_118"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 121
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_119"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 91
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_120"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 186
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_121"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 121
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u79D1\u5E7B\u592A\u7A7A\u7B56\u7565\u5854\u9632\u7C7B\u6E38\u620F\u7D20\u6750-\u79D1\u5E7B\u672A\u6765\u79D1\u6280\u98CE\u683C\u592A\u7A7AUI\u7D20\u6750-\u602A_\u7231\u7ED9\u7F51_aigei_com_122"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 83
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
